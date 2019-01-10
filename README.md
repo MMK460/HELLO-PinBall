@@ -8,7 +8,7 @@ Email：zack@grossbart.com
 
 TEl: +1 514889235
 
-![image](https://github.com/MMK460/DZD/blob/master/赚.png)
+![image](https://github.com/MMK460/HELLO-PinBall/blob/master/icon-40%403x.png)
 
 
 # 2.【How to Play HELLO-PinBall】
