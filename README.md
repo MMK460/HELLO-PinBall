@@ -8,6 +8,9 @@ Email：zack@grossbart.com
 
 TEl: +1 514889235
 
+![image](https://github.com/MMK460/DZD/blob/master/赚.png)
 
 
 # 2.【How to Play HELLO-PinBall】
+
+Your mission: hit the steel ball with your ankle at the right time, don't miss it, chance is only 4 times.
